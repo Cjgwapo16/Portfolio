@@ -16,7 +16,7 @@ const portfolio = {
   photo: "https://portfolio1-cjdayaday-porfolio.vercel.app/profile.png",
   education: [
     {
-      period: "2024 — Present",
+      period: "2024 — 2026",
       title: "BS Information Technology",
       school: "Western Institute of Technology",
       detail: "Currently pursuing a Bachelor of Science in Information Technology.",
